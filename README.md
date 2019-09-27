@@ -1,2 +1,2 @@
 # ML-based-anomaly-detection
-Anomaly detection using unsupervised machine learning.
+Anomaly detection using machine learning. Especially, Unsupervised machine learing is assumed.
